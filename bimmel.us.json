@@ -1,0 +1,30 @@
+{
+	"menuLinkText": [
+		"LinkText",
+		"LinkText",
+		"LinkText",
+		"LinkText"
+	],
+	"collection": [
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "sectioncontenthere"
+		},
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "sectioncontenthere"
+		},
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "sectioncontenthere"
+		},
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "sectioncontenthere"
+		},
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "<p>sectioncontenthere</p>"
+		}
+	]
+}
